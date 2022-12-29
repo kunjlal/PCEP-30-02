@@ -1,0 +1,19 @@
+Interpreted , High level language Object oriented language 
+Source code -> interpreter -> output
+Source code -> compiler-> Machine Code -> interpreter -> output
+
+Disadvantage :
+        debugging can be difficult 
+        weak speed performance
+       
+       
+       
+Online Compiler:
+
+https://replit.com/~   @Best compiler with efficent module 
+# print()  # Display and Start a new line 
+# print("Welcome")
+# print("Welcome\n") @ next line character 
+# print("Hello")
+
+# for comment symbol
