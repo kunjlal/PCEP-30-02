@@ -15,5 +15,67 @@ https://replit.com/~   @Best compiler with efficent module
 # print("Welcome")
 # print("Welcome\n") @ next line character 
 # print("Hello")
-
 # for comment symbol
+...
+this is another way to manage multi line comment 
+...
+
+The type of data is # type()
+First letter can be an alphabet or an underscore(_)
+It's case sensitive language 
+
+Example:
+
+  x = 45 ; x_123=45
+  y= "Hello" y_hn="hi"
+  
+  print(x)  print(x_123)
+  print(y)  print(y_hn)
+  
+  type_printing = (type (y_hn))
+  
+  
+  x=123
+  print(x) # will give an error
+  
+  Multilpe variable declaration 
+  x,y,z=1,"welcome","hello"
+  print(x)
+    print(y)
+      print(z)
+      
+  x = y = z = 10
+  print(x)
+  print(y)
+  print(z)
+  
+  print(x,y,z)
+  
+  
+  abc="Hello, i am sandeep"
+  print(abc)
+  del abc
+  print(abc)
+  
+Note:
+  
+You cannot use names that have a special meaning or which are reserved for a particular purpose in Python. For example - print has a special meaning, input is also reserved for a specific purpose, etc.
+
+You can not use keywords as the variable names. For example - and, or, if, else, etc (We will cover these as we move further)
+
+Keywords are those which have a special meaning and are already defined in Python. They are used to define the syntax of the coding.
+
+You can not use inbuilt function names as the variable names such as print(), int(), input(), etc.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
