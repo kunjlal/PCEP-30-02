@@ -113,9 +113,24 @@ Semantics: These are rules that decide if certain phrases make sense.
 
 Alphabet: A set of symbols used to build words of a certain language
 
+Strings:
+Anything that is wrapped inside single or double quotes like "hello" 'He' 
 
+print("I am string")
+print("I am string")
+print(type(print("I am string"))
+print(type(print('2'))
+print(type(print(' '))
 
+single quote inside a string 
 
+print('I' am a developer)
+
+print("I' am a developer|")
+print('I' am a "developer|")
+print('I' am a "developer|')
+print('I\' am a "developer|')
+print("I' am a "developer")
 
 
 
