@@ -68,9 +68,72 @@ Keywords are those which have a special meaning and are already defined in Pytho
 You can not use inbuilt function names as the variable names such as print(), int(), input(), etc.  
   
   
-  
-  
-  
+Boolean and Literals
+(True/False)
+print (True > False)
+print(type (True > False))
+print (False > True)
+
+print(1)
+print (type(1))
+print(type(200))
+print(type(1.0))
+print(type(1.))
+
+Integers: number without any decimal part 
+
+# octal number -- Other numeral system 
+print(0o103)
+# Hexadecimal Number:
+print(0x103)
+# Floating number
+# float 
+print(2.45)
+print(5.0)
+print(type(print(5.0))
+
+# Scientif NUmber - Number with large number or small number
+print(4e8)
+print(5e9)
+print(6e12)
+print(7.5e12)
+print(type(print(6e12))
+
+
+Points to remember
+Machine Language: The computer has its own language that consists of binary or hexadecimal instructions which are called machine language.
+
+Source Code: A program that is written in a high-level programming language is called a source code.
+
+Lexis: A set of words the language offers its users.
+
+Syntax: Rules to decide if a certain group of words are a part of a valid code is called Syntax
+
+Semantics: These are rules that decide if certain phrases make sense.
+
+Alphabet: A set of symbols used to build words of a certain language
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
