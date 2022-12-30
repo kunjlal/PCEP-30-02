@@ -166,6 +166,40 @@ To compare two binary digit
 (Bitwise AND)
 
 
+#unary opertor
+
+print(+1) 
+print(+1.5) 
+print(-2) 
+print(-2.5) 
+
+
+# binary opertor
+x=10 in Binary 0000 1010
+y= 8   0000 1000
+print (x & y)
+print (x | y)
+print (x ^ y)
+
+Left shift and right shift opertor << >>
+
+x=20
+y= x >> 1  same as x//2
+z=x << 2  same as Z*2*2
+print (y)
+print(z)
+y=x >>3 same as x//2//2//2
+z=x<<4 same as z*2*2*2*2
+
+print (2**2**1+9*7/2)
+
+Binding : Opertor with same priorty.. most of are left binded 
+** are right handed 
+
+
+
+
+
 
 
 
