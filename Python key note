@@ -196,6 +196,11 @@ print (2**2**1+9*7/2)
 Binding : Opertor with same priorty.. most of are left binded 
 ** are right handed 
 
+print(3+4*6)
+binding
+print(3+4%6)
+
+
 
 
 
