@@ -132,6 +132,39 @@ print('I' am a "developer|')
 print('I\' am a "developer|')
 print("I' am a "developer")
 
+String :
+
+print("python" * 3)
+print(3 * `python`)  order does't matter it will repeat as many time
+print("4" * 3)
+
+x= " hello"
+y=" how are you ?"
+z=x+y
+print(z)
+print("the actual string:" + x + y )
+print("the actual string:" , x + y )
+print("x"+1) # error 
+print("x"+¨Y¨) 
+
+print('John' 'Miller')
+
+
+x = 1
+y = 2
+x, y, z = x, x, y
+x, y, z = 1, 1, 2
+z, y, z = x, y, z
+z, y, z = 2 1 2
+
+print(x, y, z)
+x = 1 y = 2 x, y, z = x, x, y z, y, z = x, y, z print(x, y, z) x,y,z = x, x, y is same as - x = x #1 y = x #1 z = y #2 (NOT 1 because all of these assignments are together so previous value of y was 2) so, x = 1, y = 1 and z = 2 z, y, z = x, y, z is same as - z = x #1 y = y #1 z = z #2 so, at last x = 1 y = 1 z = 2
+
+
+Opertor having only 1 operand 
+To compare two binary digit
+(Bitwise AND)
+
 
 
 
