@@ -201,11 +201,52 @@ binding
 print(3+4%6)
 
 
+x = 10
+y = 19
+print (x == y)
+print (x > y)
+print (x < y)
+print (x != y)
+print (x >= y)
+print (x <= y)
 
+a = 2
+b = 2.0
 
+print (a == b)
+temp = a == b
+temp1 = a != b
+temp2 = a > b
 
+print(temp)
+print(temp1)
+print(temp2)
 
+Boolean Opertors:
+Logical opertor(Return true if both operands are true.
+Nagation of actual variable 
 
+Example of these
+x= false
+y=false
+
+x = 1
+y = 0
+
+print( x and y)
+print( x or y)
+print( not x )
+print( not y )
+
+Boolean Expresssion:
+a =10
+b= 20
+print (a>b)
+print (b>=a)
+print (type(a>b))
+print (type(False))
+
+Identity Opertors
 
 
 
