@@ -246,7 +246,21 @@ print (b>=a)
 print (type(a>b))
 print (type(False))
 
-Identity Opertors
+Identity Opertors:
+- IS (True) / ISNOT(Not true)
+
+a=20
+b=20
+c=30
+d=[30,40]
+e=[30,40]
+print (a is b)
+print (c is b)
+print (c is a)
+print (d is e)
+print (d is not e)
+print (a is not e)
+print (f is c)
 
 
 
