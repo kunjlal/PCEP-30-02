@@ -1,1 +1,3 @@
-
+x=5
+if x>10:
+print("x greate than 10")
